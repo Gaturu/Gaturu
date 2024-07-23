@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Gaturu
+### Hi there, I'm [Gaturu] 👋
 
 Welcome to my GitHub profile! passionate IT professional with 7+ years of experience in leveraging technology to create customer-centric solutions. Throughout my career, I've honed my skills in IT service delivery, IT operations, infrastructure support, and information systems management.
 
@@ -22,6 +22,8 @@ I aim to train over 100,000 young people across the continent in Cloud Computing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="Ansible" width="45" height="45"/>
 </p>
 
+          
+
 
 ### 🎖️ Certifications
 
@@ -33,7 +35,7 @@ I aim to train over 100,000 young people across the continent in Cloud Computing
 
 <br/>
 
-
+<div>
 <details>
   <summary>Something interesting about me! 😄</summary>
    
@@ -43,6 +45,7 @@ I aim to train over 100,000 young people across the continent in Cloud Computing
   - Live and learn – I’m all about learning new things every day! 📚
   - Believe in self CI/CD – Continuous Improvements and Continuous Development 🌱
   - My mantra: “Withdraw into yourself, as far as you can. Associate with those who will make a better man of you. Welcome those whom you yourself can improve. The process is mutual; for men learn while they teach.”  🧘‍♂️
+</div>
 
 <div align="center">
   <h2>Say hello to my friend with an insatiable appetite </h2>
