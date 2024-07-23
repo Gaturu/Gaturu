@@ -1,4 +1,4 @@
-### Hi there, I'm [Gaturu] 👋
+### 👋 Hey there! I'm Gaturu
 
 Welcome to my GitHub profile! passionate IT professional with 7+ years of experience in leveraging technology to create customer-centric solutions. Throughout my career, I've honed my skills in IT service delivery, IT operations, infrastructure support, and information systems management.
 
