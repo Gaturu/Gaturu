@@ -27,10 +27,10 @@ I aim to train over 100,000 young people across the continent in Cloud Computing
 
 ### 🎖️ Certifications
 
-<a title="AWS Certified Cloud Practitioner" href="https://www.credly.com/earner/earned/badge/d842b026-6621-45f7-ba1b-ad76a850fea9"><img height="60" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
+<a title="AWS Certified Cloud Practitioner" href="https://www.credly.com/badges/d842b026-6621-45f7-ba1b-ad76a850fea9/public_url"><img height="60" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
 <a title="Microsoft Certified: Azure AI Fundamentals" href="https://learn.microsoft.com/en-gb/users/gaturuduncan-2929/credentials/certification/azure-ai-fundamentals?source=docs"><img height="60" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"></a>
-<a title="McKinsey Forward Program" href="https://www.credly.com/earner/earned/badge/3bae891d-7043-4bbc-bfc9-db570fd50cb1"><img height="60" src="https://images.credly.com/size/680x680/images/47a284dc-266a-4e74-bb5e-f41df1d6edcb/image.png"></a>
-<a title="AGoogle Data Analytics Professional Certificate" href="https://www.credly.com/earner/earned/badge/5953443f-14e0-4b63-a645-94dddfdea3d4"><img height="60" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"></a>
+<a title="McKinsey Forward Program" href="[https://www.credly.com/earner/earned/badge/3bae891d-7043-4bbc-bfc9-db570fd50cb1](https://www.credly.com/badges/3bae891d-7043-4bbc-bfc9-db570fd50cb1/public_url)"><img height="60" src="https://images.credly.com/size/680x680/images/47a284dc-266a-4e74-bb5e-f41df1d6edcb/image.png"></a>
+<a title="AGoogle Data Analytics Professional Certificate" href="[https://www.credly.com/earner/earned/badge/5953443f-14e0-4b63-a645-94dddfdea3d4](https://www.credly.com/badges/5953443f-14e0-4b63-a645-94dddfdea3d4/public_url)"><img height="60" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"></a>
 
 
 <br/>
