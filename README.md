@@ -4,11 +4,11 @@ Welcome to my GitHub profile! passionate IT professional with 7+ years of experi
 
 Passionate about all things cloud ☁️ | Exploring Azure, AWS, & Google Cloud | Future DevSecOps expert 🔒 | Here to mentor and inspire the next wave of tech leaders! Join me on this journey! #CloudEnthusiast #Cybersecurity #FutureLeaders
 
-- 🌱 I’m currently learning DevOps, Cloud Security, Vulnerability Management, 
-- ✍️ Regularly writing technical blogs - [Medium](https://medium.com/@gaturugaturu)    
+- 🌱 I’m currently learning the ropes of DevOps, Cloud Security, Vulnerability Management, 
+- ✍️ Technical blogger on - [Medium](https://medium.com/@gaturugaturu)    
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/gaturu-gatueu/)    (15+ certifications)
 - 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/duncangaturu/)    (7+ years)
-- 🔭 I’m currently working on AWS Projects
+- 🔭 I’m currently working on exciting AWS projects!
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
