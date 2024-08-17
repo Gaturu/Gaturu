@@ -2,9 +2,7 @@
 
 Welcome to my GitHub profile! passionate IT professional with 7+ years of experience in leveraging technology to create customer-centric solutions. Throughout my career, I've honed my skills in IT service delivery, IT operations, infrastructure support, and information systems management.
 
-My true passion lies in the world of cloud computing, spanning across Azure, AWS, and Google Cloud, where I thrive in crafting multi-cloud solutions. 
-
-I aim to train over 100,000 young people across the continent in Cloud Computing and Cybersecurity, helping them shape the digital frontier.
+Passionate about all things cloud ☁️ | Exploring Azure, AWS, & Google Cloud | Future DevSecOps expert 🔒 | Here to mentor and inspire the next wave of tech leaders! Join me on this journey! #CloudEnthusiast #Cybersecurity #FutureLeaders
 
 - 🌱 I’m currently learning DevOps, Cloud Security, Vulnerability Management, 
 - ✍️ Regularly writing technical blogs - [Medium](https://medium.com/@gaturugaturu)    
