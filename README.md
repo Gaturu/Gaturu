@@ -29,7 +29,7 @@ Passionate about all things cloud ☁️ | Exploring Azure, AWS, & Google Cloud 
 <a title="Microsoft Certified: Azure AI Fundamentals" href="https://learn.microsoft.com/en-gb/users/gaturuduncan-2929/credentials/certification/azure-ai-fundamentals?source=docs"><img height="60" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"></a>
 <a title="McKinsey Forward Program" href="https://www.credly.com/badges/3bae891d-7043-4bbc-bfc9-db570fd50cb1/public_url"><img height="60" src="https://images.credly.com/size/680x680/images/47a284dc-266a-4e74-bb5e-f41df1d6edcb/image.png"></a>
 <a title="Google Data Analytics Professional Certificate" href="https://www.credly.com/badges/5953443f-14e0-4b63-a645-94dddfdea3d4/public_url"><img height="60" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"></a>
-
+<a title="AWS Certified Solutions Architect – Associate" href="https://www.credly.com/badges/65040fc9-4174-4eca-bf30-8648cbd7751c/public_url"><img height="60" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 
 <br/>
 
